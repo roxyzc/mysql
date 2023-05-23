@@ -1,0 +1,42 @@
+type data dasar sql
+
+Integer
+- TINYINT
+- SMALLINT
+- MEDIUMINT
+- INT
+- INTEGER
+
+FLoating Point
+- FLOAT
+- DOUBLE
+
+Decimal
+- DECIMAL(5, 2) example 999.99
+
+Number Attribute
+- TYPE(N)
+- ZEROFILL example INT(3) ZEROFILL, 7 is displayed as 007
+
+String
+- CHAR
+- VARCHAR
+
+Text
+- TINYTEXT
+- TEXT
+- MEDIUMTEXT
+- LONGTEXT
+
+Enum
+- ENUM
+
+Date and Time
+- DATE
+- DATETIME
+- TIMESTAMP
+- TIME
+- YEAR
+
+Booelan
+- BOOLEAN
