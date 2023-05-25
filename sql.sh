@@ -19,3 +19,6 @@ TRUNCATE barang;
 DROP TABLE barang;
 UPDATE barang SET name = 'banana' WHERE id = 1;
 DELETE FROM barang WHERE id = 1;
+SELECT DICSTINCT name FROM barang;
+SELECT PI();
+SELECT LAST_INSERT_ID();
